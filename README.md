@@ -15,4 +15,9 @@ Esta carpeta está dedicada al aprendizaje de Python.
 #Day 3 Collab
 #M5 - 06 Introducción a Machine Learning con Scikit- Learn
 #Predecir el valor del Bitcoin --> Ejercicios para predecir el IBEX 35
-#M5 - 09 --> Ejercicios con mapas. 
+#M5 - 09 --> Ejercicios con mapas.
+
+#Day 4 Collab
+#M5 - SpaceX2 - 5 --> Práctica sobre Space X
+#M5 - SpaceX" - 6 --> Práctica sobre Space X
+#SpaceX - 2 - EDA --> Información y mapas sobre Space X
